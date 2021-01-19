@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+#main-section {
+    background: linear-gradient(#FF9E80 0%, #FF6E40 50%);
+
+}
+
+.parallax-inner {
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+}
+
+
+
+.line {
+    height: 5px;
+    background-color: black;
+    width: 20px;
+    text-align: center;
+}
+
+p {
+    max-width: 500px;
+    font-size: 20px;
+    align-content: center;
+    margin: 25px;
+}
